@@ -25,15 +25,15 @@ Sebagai bagian dari strategi pertumbuhannya, PT. Klikpeta Solusi Indonesia memut
 Implementasi SFA di PT. Klikpeta Solusi Indonesia tidak hanya bertujuan untuk meningkatkan efisiensi operasional, tetapi juga untuk mengintegrasikan data lokasi dari KlikPeta.com ke dalam proses penjualan. Dengan bantuan PT Ictindo Mitra Solusi, mereka mampu mengembangkan sistem SFA yang khusus dirancang untuk memenuhi kebutuhan bisnis mereka.
 
 ## Langkah-langkah Implementasi
-Analisis Kebutuhan: Langkah pertama adalah menganalisis kebutuhan bisnis PT. Klikpeta Solusi Indonesia dan memahami bagaimana SFA dapat membantu mereka mencapai tujuan bisnis mereka. Tim dari PT Ictindo Mitra Solusi melakukan audit menyeluruh terhadap proses penjualan yang ada, mengidentifikasi area yang dapat diotomatisasi, dan menentukan metrik keberhasilan.
+1. Analisis Kebutuhan: Langkah pertama adalah menganalisis kebutuhan bisnis PT. Klikpeta Solusi Indonesia dan memahami bagaimana SFA dapat membantu mereka mencapai tujuan bisnis mereka. Tim dari PT Ictindo Mitra Solusi melakukan audit menyeluruh terhadap proses penjualan yang ada, mengidentifikasi area yang dapat diotomatisasi, dan menentukan metrik keberhasilan.
 
-1. Pengembangan Sistem: Berdasarkan hasil analisis, PT Ictindo Mitra Solusi mengembangkan sistem SFA yang terintegrasi dengan KlikPeta.com. Integrasi ini memungkinkan tim penjualan untuk mengakses data lokasi secara real-time, yang sangat berguna untuk penargetan pasar dan perencanaan rute distribusi.
+2. Pengembangan Sistem: Berdasarkan hasil analisis, PT Ictindo Mitra Solusi mengembangkan sistem SFA yang terintegrasi dengan KlikPeta.com. Integrasi ini memungkinkan tim penjualan untuk mengakses data lokasi secara real-time, yang sangat berguna untuk penargetan pasar dan perencanaan rute distribusi.
 
-2. Pelatihan Tim: Agar implementasi SFA berjalan dengan lancar, PT Klikpeta Solusi Indonesia memastikan bahwa seluruh tim penjualan mendapatkan pelatihan yang memadai. Pelatihan ini mencakup penggunaan sistem SFA, pemanfaatan data lokasi dalam penjualan, dan cara-cara baru untuk berinteraksi dengan pelanggan.
+3. Pelatihan Tim: Agar implementasi SFA berjalan dengan lancar, PT Klikpeta Solusi Indonesia memastikan bahwa seluruh tim penjualan mendapatkan pelatihan yang memadai. Pelatihan ini mencakup penggunaan sistem SFA, pemanfaatan data lokasi dalam penjualan, dan cara-cara baru untuk berinteraksi dengan pelanggan.
 
-3. Uji Coba dan Evaluasi: Sebelum diluncurkan secara penuh, sistem SFA diuji coba dalam skala kecil untuk memastikan bahwa semua fungsi berjalan dengan baik. Feedback dari tim penjualan dikumpulkan dan digunakan untuk melakukan penyesuaian yang diperlukan.
+4. Uji Coba dan Evaluasi: Sebelum diluncurkan secara penuh, sistem SFA diuji coba dalam skala kecil untuk memastikan bahwa semua fungsi berjalan dengan baik. Feedback dari tim penjualan dikumpulkan dan digunakan untuk melakukan penyesuaian yang diperlukan.
 
-4. Peluncuran dan Pengawasan: Setelah uji coba berhasil, sistem SFA diluncurkan secara penuh. Tim manajemen melakukan pengawasan rutin untuk memastikan bahwa sistem berfungsi sesuai harapan dan untuk mengidentifikasi area yang mungkin memerlukan peningkatan lebih lanjut.
+5. Peluncuran dan Pengawasan: Setelah uji coba berhasil, sistem SFA diluncurkan secara penuh. Tim manajemen melakukan pengawasan rutin untuk memastikan bahwa sistem berfungsi sesuai harapan dan untuk mengidentifikasi area yang mungkin memerlukan peningkatan lebih lanjut.
 
 ## Hasil Implementasi
 Setelah implementasi SFA, PT. Klikpeta Solusi Indonesia melihat peningkatan yang signifikan dalam efisiensi operasional dan produktivitas tim penjualannya. Berikut adalah beberapa hasil yang dicapai:
